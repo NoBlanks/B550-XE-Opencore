@@ -1,4 +1,4 @@
-# ASUS ROG STRIX B550-XE Gaming Wifi Hackintosh
+ASUS ROG STRIX B550-XE Gaming Wifi Hackintosh
 
 - Ryzen 5 5600X
 - ASUS ROG STRIX B550-XE Gaming Wifi
@@ -13,15 +13,16 @@
 - Opencore 0.9.0
 - MacOS Big Sur 11.7.4
 
-# What doesn't work (excluding the issues that only happen on AMD Hackintoshes)
+What doesn't work (excluding the issues that only happen on AMD Hackintoshes)
 
 - DRM in Safari, Apple TV+ and iTunes Videos (Can be fixed by installing Catalina and doing DRM fixes)
 - Airdrop (Use an Apple Airport card instead)
 
-# Additional Notes
+Additional Notes
 - The SMBIOS is the MacPro7,1 (Mac Pro 2019)
 - OpenCore logging is disabled as I wanted it to be disabled, you can reenable it in the config.plist by changing the target to 67 in the Misc section
 - AMD Patches are set to 6-Cores, change it if your CPU has more cores, read more here (https://github.com/AMD-OSX/AMD_Vanilla)
+- All serial related info and mac address are blanked out, remember to add your own
 
-# Opencore Guide
+Opencore Guide
 https://dortania.github.io/OpenCore-Install-Guide/
