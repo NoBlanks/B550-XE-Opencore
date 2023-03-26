@@ -4,7 +4,7 @@
 - ASUS ROG STRIX B550-XE Gaming Wifi
 - Corsair Vengence LPX DDR4-4000 CL16 16GB (2x8GB)
 - Patriot Viper Steel DDR4-4000 CL16 16GB (2x8GB)
-- Total 32GB RAM, running at 3933 due to infinity fabric limitations
+- Total 32GB RAM, running at 3933 CL16 due to infinity fabric limitations
 - PNY CS3040 M.2 NVME SSD (Windows)
 - Some Toshiba 2TB Hard Drive
 - WD Blue 500GB SSD (MacOS)
