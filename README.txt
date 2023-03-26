@@ -15,7 +15,6 @@ ASUS ROG STRIX B550-XE Gaming Wifi Hackintosh
 
 What doesn't work (excluding the issues that only happen on AMD Hackintoshes)
 
-- DRM in Safari, Apple TV+ and iTunes Videos (Can be fixed by installing Catalina and doing DRM fixes)
 - Airdrop (Use an Apple Airport card instead)
 
 Additional Notes
