@@ -6,11 +6,10 @@
 - Patriot Viper Steel DDR4-4000 CL16 16GB (2x8GB)
 - Total 32GB RAM, running at 3933 CL16 due to infinity fabric limitations
 - PNY CS3040 M.2 NVME SSD (Windows)
-- Some Toshiba 2TB Hard Drive
-- WD Blue 500GB SSD (MacOS)
+- XPG Gammix S11 Pro M.2 NVME SSD (macOS and Garuda Linux)
 - Gigabyte Radeon RX 6800 Gaming OC
 - Intel AX200 (Wifi and Bluetooth)
-- Opencore 0.9.0
+- Opencore 0.9.1
 - MacOS Big Sur 11.7.4
 
 # What doesn't work (excluding the issues that only happen on AMD Hackintoshes)
