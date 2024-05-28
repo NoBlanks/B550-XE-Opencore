@@ -9,8 +9,8 @@
 - XPG Gammix S11 Pro M.2 NVME SSD (macOS and Garuda Linux)
 - Gigabyte Radeon RX 6800 Gaming OC
 - Intel AX200 (Wifi and Bluetooth)
-- Opencore 0.9.1
-- MacOS Big Sur 11.7.4
+- Opencore 1.0.0
+- MacOS Sonoma 14.4
 
 # What doesn't work (excluding the issues that only happen on AMD Hackintoshes)
 
